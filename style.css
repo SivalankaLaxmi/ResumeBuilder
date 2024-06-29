@@ -1,0 +1,29 @@
+/* body{
+    background-color: black;
+    color: white;
+} */
+
+/* #cv-form{
+    display: none;
+} */
+
+#cv-template {
+    display: none;
+}
+.myimg{
+    border-radius: 50%;
+    width: 200px;
+}
+
+.background {
+    background-color: aquamarine;
+    color: black;
+    font-style: italic;
+    font-weight: 600;
+    margin: 20px;
+}
+
+/* #profile {
+    height: 500px;
+    width: 370px;
+} */
